@@ -7,8 +7,7 @@ Deliverable 1: Scrape titles and preview text from Mars news articles. Optionall
 Deliverable 2: Scrape and analyse Mars weather data, which exists in a table.
 
 Answer the following question: How many months exist on Mars?
-
-Answer the following question: How many Martian (and not Earth) days' worth of data exist in the scraped dataset?
+There are 12 Months on Mars
 
 Answer the following question: What are the coldest and the warmest months on Mars (at the location of Curiosity)? Get the answer by averaging the minimum daily temperature of all the months. Plot the results as a bar chart.
 
